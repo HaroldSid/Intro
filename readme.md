@@ -26,7 +26,11 @@ try me on [youtube](https://www.youtube.com/watch?v=S3qSLt74tMQ "On plaisante on
 
 ## Fears
 
-I'm scared of heights... **AAAH**
+I'm scared of heights... 
+
+![fear](https://s3-eu-west-1.amazonaws.com/groupe-carton/posts/prendre-de-la-hauteur_779x300.jpeg)
+
+**AAAH**
 
 ## Aspiration 
 
@@ -38,4 +42,4 @@ I want to live very old
 - discussion
 - laugh
 
-# *GIF*
+#![mignions](https://www.abondance.com/wp-content/uploads/2018/07/google-tenor.gif)
